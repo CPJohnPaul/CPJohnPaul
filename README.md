@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CPJohnPaul
+- 👋 Hi, I’m @JohnPaul
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on K8s
